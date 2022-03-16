@@ -8,5 +8,9 @@
     ],
     "hash": "369b3c5c8ea63f460d7a6e5012c3cc71a2d5403c1ef5ac8fa1e9122a05f5f531",
     "bin": "credhub.exe",
-    "depends": "7zip"
+    "depends": "7zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cloudfoundry-incubator/credhub-cli/releases/download/$version/credhub-windows-$version.tgz"
+    }
 }
