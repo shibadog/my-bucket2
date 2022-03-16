@@ -1,12 +1,10 @@
 {
     "homepage": "https://github.com/mithrandie/csvq",
-    "version": "1.15.2",
+    "version": "1.16.0",
     "license": "MIT License",
-    "url": [
-        "https://github.com/mithrandie/csvq/releases/download/v1.15.2/csvq-v1.15.2-windows-amd64.tar.gz"
-    ],
+    "url": "https://github.com/mithrandie/csvq/releases/download/v1.16.0/csvq-v1.16.0-windows-amd64.tar.gz",
     "checkver": "github",
-    "hash": "bfe67d463429b6981893789e534a565204c5102befc12c76963803daaa81aa89",
+    "hash": "ab71a7ae4039049b16d2a7bbfcf5c41113f5405830d0f5af5bd6a4b1f2f43350",
     "bin": "csvq-*-windows-amd64\\csvq.exe",
     "depends": "7zip",
     "autoupdate": {
