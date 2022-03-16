@@ -1,5 +1,6 @@
 {
     "homepage": "https://github.com/mithrandie/csvq",
+    "description": "",
     "version": "1.16.0",
     "license": "MIT License",
     "url": "https://github.com/mithrandie/csvq/releases/download/v1.16.0/csvq-v1.16.0-windows-amd64.tar.gz",

@@ -1,5 +1,6 @@
 {
-    "homepage": "https://buildpacks.io/",
+    "homepage": "https://github.com/buildpacks/pack",
+    "description": "",
     "version": "0.19.0",
     "license": "Apache License 2.0",
     "url": [

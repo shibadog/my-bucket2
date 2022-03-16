@@ -1,5 +1,6 @@
 {
-    "homepage": "https://carvel.dev/ytt/",
+    "homepage": "https://github.com/vmware-tanzu/carvel-ytt",
+    "description": "",
     "version": "0.40.1",
     "license": "Apache License 2.0",
     "url": [
