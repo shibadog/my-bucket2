@@ -1,0 +1,15 @@
+{
+    "homepage": "https://buildpacks.io/",
+    "version": "1.0.0",
+    "url": "https://download.microsoft.com/download/1/2/2/1220f3be-11af-4695-990e-5404763d9e9d/vcredist_x86.exe",
+    "hash": "",
+    "installer": {
+        "file": "vcredist_x86.exe",
+        "args": ["/q"],
+        "keep": true
+    },
+    "uninstaller": {
+        "file": "MsiExec.exe",
+        "args": ["/x", "{E3F7F270-4ADD-3DA6-8B35-A924C134D49F}", "/passive"]
+    }
+}

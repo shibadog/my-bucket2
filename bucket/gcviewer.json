@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/chewiebug/GCViewer/wiki",
+    "version": "1.36.0",
+    "url": "http://sourceforge.net/projects/gcviewer/files/gcviewer-1.36.jar/download#/gcviewer.jar",
+    "hash": "",
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    },
+    "bin": "gcviewer.jar"
+}

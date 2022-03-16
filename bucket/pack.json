@@ -1,0 +1,14 @@
+{
+    "homepage": "https://buildpacks.io/",
+    "version": "0.19.0",
+    "license": "Apache License 2.0",
+    "url": [
+        "https://github.com/buildpacks/pack/releases/download/v0.19.0/pack-v0.19.0-windows.zip"
+    ],
+    "bin": "pack.exe",
+    "depends": "7zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/buildpacks/pack/releases/download/v$version/pack-v$version-windows.zip"
+    }
+}

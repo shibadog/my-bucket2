@@ -1,0 +1,9 @@
+{
+    "description": "",
+    "license": "MIT",
+
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/shibadog/my-bucket/master/bin/Install-Font.ps1",
+
+    "bin": [ ["Install-Font.ps1", "install-font"] ]
+}

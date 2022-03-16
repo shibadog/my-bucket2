@@ -1,0 +1,18 @@
+{
+    "homepage": "https://mix-mplus-ipa.osdn.jp/migu/",
+    "description": "",
+    "license": {
+        "identifier": "IPA Font License Agreement",
+        "url": "https://mix-mplus-ipa.osdn.jp/migmix/IPA_Font_License_Agreement_v1.0.txt"
+    },
+    "depends": [
+        "install-font"
+    ],
+
+    "version": "1.0.0",
+    "url": "https://osdn.net/projects/mix-mplus-ipa/downloads/72511/migu-1m-20200307.zip/",
+
+    "installer": {
+        "script": "Install-Font -FontPath $dir -Recurse"
+    }
+}
