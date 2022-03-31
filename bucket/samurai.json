@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/yusuke/samurai",
+    "description": "",
+    "version": "2021.8",
+    "license": "Apache License 2.0",
+    "url": "https://github.com/yusuke/samurai/releases/download/2021.8/Samurai-2021.8-win.zip",
+    "bin": "samurai.exe",
+    "depends": "7zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cloudfoundry-incubator/credhub-cli/releases/download/$version/Samurai-$version-win.zip"
+    }
+}
