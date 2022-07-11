@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/JPCERTCC/EmoCheck",
     "description": "",
-    "version": "2.3.2",
+    "version": "2.3.1",
     "license": "Original License",
-    "url": "https://github.com/JPCERTCC/EmoCheck/releases/download/v2.3.2/emocheck_v2.3.2_x64.exe#/emocheck.exe",
-    "hash": "40d689b38f0dce2d5f4eda981860a1511557f4455b65bb5bb9fd1b8395adc332",
+    "url": "https://github.com/JPCERTCC/EmoCheck/releases/download/v2.3.1/emocheck_v2.3.1_x64.exe#/emocheck.exe",
+    "hash": "a02363b7271c76499c49fe4fe12eb65486978a036fa9375f285a1b43f89d12cd",
     "bin": "emocheck.exe",
     "checkver": "github",
     "autoupdate": {
