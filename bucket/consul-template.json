@@ -6,10 +6,7 @@
     "url": "https://releases.hashicorp.com/consul-template/0.29.4/consul-template_0.29.4_windows_amd64.zip",
     "bin": "cosul-template.exe",
     "depends": "7zip",
-    "checkver": {
-        "url": "https://releases.hashicorp.com/consul-template/",
-        "regex": "consul-tempalte_([\\d.]+)"
-    },
+    "checkver": "github",
     "autoupdate": {
         "url": "https://releases.hashicorp.com/consul-template/$version/consul-template_$version_windows_amd64.zip"
     }
