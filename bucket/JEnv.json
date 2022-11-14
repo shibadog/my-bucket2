@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/FelixSelter/JEnv-for-Windows",
+    "description": "",
+    "version": "2.0.3",
+    "license": "Apache-2.0 license",
+    "url": "https://github.com/FelixSelter/JEnv-for-Windows/releases/download/v2.0.3/JEnv.zip",
+    "bin": "jenv.bat",
+    "depends": "7zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/FelixSelter/JEnv-for-Windows/releases/download/v$version/JEnv.zip"
+    }
+}
