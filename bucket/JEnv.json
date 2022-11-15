@@ -4,7 +4,7 @@
     "version": "2.0.3",
     "license": "Apache-2.0 license",
     "url": "https://github.com/FelixSelter/JEnv-for-Windows/releases/download/v2.0.3/JEnv.zip",
-    "bin": "jenv.bat",
+    "bin": "src/jenv.ps1",
     "depends": "7zip",
     "checkver": "github",
     "autoupdate": {
