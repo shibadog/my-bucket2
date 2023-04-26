@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/cloudfoundry-incubator/credhub-cli",
     "description": "",
-    "version": "2.9.13",
+    "version": "2.9.14",
     "license": "Apache License 2.0",
-    "url": "https://github.com/cloudfoundry-incubator/credhub-cli/releases/download/2.9.13/credhub-windows-2.9.13.tgz",
-    "hash": "a17bdf0c9bbf6ecab8fd8ffd04dc21b78610dce5f805e372e66d78e9e0458cd1",
+    "url": "https://github.com/cloudfoundry-incubator/credhub-cli/releases/download/2.9.14/credhub-windows-2.9.14.tgz",
+    "hash": "083a570bcbcf2b4733137903a533001f8caf2d3aede99ffe174e511cc2158a8b",
     "bin": "credhub.exe",
     "depends": "7zip",
     "checkver": "github",
