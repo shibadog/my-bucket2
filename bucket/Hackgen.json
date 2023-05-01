@@ -1,9 +1,9 @@
 {
-    "version": "2.3.3",
+    "version": "3.0.0",
     "license": "MIT",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "description": "",
-    "url": "https://github.com/yuru7/HackGen/releases/download/v2.3.3/HackGen_v2.3.3.zip",
+    "url": "https://github.com/yuru7/HackGen/releases/download/v3.0.0/HackGen_v3.0.0.zip",
     "checkver": "github",
     "depends": "sudo",
     "autoupdate": {
