@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/buildpacks/pack",
     "description": "",
-    "version": "0.30.0",
+    "version": "0.31.0",
     "license": "Apache License 2.0",
-    "url": "https://github.com/buildpacks/pack/releases/download/v0.30.0/pack-v0.30.0-windows.zip",
+    "url": "https://github.com/buildpacks/pack/releases/download/v0.31.0/pack-v0.31.0-windows.zip",
     "bin": "pack.exe",
     "depends": "7zip",
     "checkver": "github",
