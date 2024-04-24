@@ -2,7 +2,7 @@
     "homepage": "https://www.screenpresso.com/ja/",
     "description": "",
     "license": "Public Domain",
-    "version": "2.1.24",
+    "version": "2.1.25",
     "url": "https://www.screenpresso.com/binaries/releases/stable/dotnet47/Screenpresso.exe",
     "checkver": {
         "url": "https://www.screenpresso.com/ja/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/",
