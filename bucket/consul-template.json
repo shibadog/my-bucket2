@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/hashicorp/consul-template",
     "description": "",
-    "version": "0.41.2",
+    "version": "0.41.3",
     "license": "MPL-2.0 license",
-    "url": "https://releases.hashicorp.com/consul-template/0.41.2/consul-template_0.41.2_windows_amd64.zip",
+    "url": "https://releases.hashicorp.com/consul-template/0.41.3/consul-template_0.41.3_windows_amd64.zip",
     "bin": "consul-template.exe",
     "depends": "7zip",
     "checkver": "github",
