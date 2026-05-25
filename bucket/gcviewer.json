@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/chewiebug/GCViewer",
     "description": "",
-    "version": "1.36",
-    "license":"Public Domain",
-    "url": "http://sourceforge.net/projects/gcviewer/files/gcviewer-1.36.jar/download#/gcviewer.jar",
+    "version": "1.37",
+    "license": "Public Domain",
+    "url": "http://sourceforge.net/projects/gcviewer/files/gcviewer-1.37.jar/download#/gcviewer.jar",
     "suggest": {
         "JDK": [
             "java/oraclejdk",
@@ -15,5 +15,4 @@
     "autoupdate": {
         "url": "http://sourceforge.net/projects/gcviewer/files/gcviewer-$version.jar/download#/gcviewer.jar"
     }
-
 }
