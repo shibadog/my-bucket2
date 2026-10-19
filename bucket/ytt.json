@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/vmware-tanzu/carvel-ytt",
     "description": "",
-    "version": "0.55.3",
+    "version": "0.55.4",
     "license": "Apache License 2.0",
-    "url": "https://github.com/vmware-tanzu/carvel-ytt/releases/download/v0.55.3/ytt-windows-amd64.exe#/ytt.exe",
-    "hash": "2f76da0fb766c78b2bbd046ca89d9b71a2dbc01f81e51a0f95e88e7a26f08a5c",
+    "url": "https://github.com/vmware-tanzu/carvel-ytt/releases/download/v0.55.4/ytt-windows-amd64.exe#/ytt.exe",
+    "hash": "468167c3784590d230121669ff093b14ff00e4e9e8a539ea835dd7b23d910918",
     "bin": "ytt.exe",
     "checkver": "github",
     "autoupdate": {
